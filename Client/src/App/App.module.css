@@ -1,0 +1,11 @@
+.App {
+   text-align: center;
+   margin: 1em;
+   background-image: url('../bgi.png');
+   background-size: contain;
+   padding-top: 3em;
+   border-radius: 2em;
+   
+}
+
+

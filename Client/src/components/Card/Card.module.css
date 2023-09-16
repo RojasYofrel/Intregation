@@ -1,0 +1,38 @@
+.container{
+    padding: 1em;
+    border-radius: 1em;
+    margin: 2%;
+    border:6px solid rgb(225, 25, 179);
+}
+
+.scape{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.button{
+    margin: 3em;
+}
+.name{
+    color: rgb(225, 25, 179);
+    font-size:xx-large;
+    text-align: left;
+}
+
+.info{
+    color: rgb(215,	59	,178);
+    font-size: large;
+    text-align: left;
+}
+
+.img{
+    
+    border-radius: 20%;
+    border-left-width: 5px;
+    border-left-style:inset;
+    border-left-color: rgb(138, 143, 167);
+    border-top-width: 5px;
+    border-top-style:inset;
+    border-top-color: rgb(138, 143, 167);   
+}
